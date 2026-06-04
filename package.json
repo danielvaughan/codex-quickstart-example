@@ -1,0 +1,16 @@
+{
+  "name": "codex-quickstart-example",
+  "version": "1.0.0",
+  "description": "A tiny intentionally broken JavaScript project for demonstrating the Codex agent loop.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "codex",
+    "quickstart",
+    "agent-loop"
+  ],
+  "author": "",
+  "license": "MIT"
+}
